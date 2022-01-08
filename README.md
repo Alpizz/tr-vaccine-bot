@@ -15,6 +15,9 @@ for Turkey. Data is parsed from Ministry of Health: https://covid19.saglik.gov.t
 - ```/asi```: Reports daily and total vaccination counts as a summarized text message. Also official and calculated vaccination rates in the population are given.
 - At the time, daily reports can only be received via command, automated daily reports are WIP.
 
+## Example
+![Example from Telegram](https://github.com/Alpizz/tr-vaccine-bot/blob/main/examples/example.png)
+
 ## License
 
 GNU General Public License v3.0
