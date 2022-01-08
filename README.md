@@ -16,7 +16,7 @@ for Turkey. Data is parsed from Ministry of Health: https://covid19.saglik.gov.t
 - At the time, daily reports can only be received via command, automated daily reports are WIP.
 
 ## Example
-![Example from Telegram](/assets/images/example.png){height="50%" width="50%"}
+![Example from Telegram](/assets/images/example.png =214x231)
 
 ## License
 
