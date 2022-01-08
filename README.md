@@ -16,7 +16,7 @@ for Turkey. Data is parsed from Ministry of Health: https://covid19.saglik.gov.t
 - At the time, daily reports can only be received via command, automated daily reports are WIP.
 
 ## Example
-<img src="https://raw.githubusercontent.com/Alpizz/tr-vaccine-bot/main/assets/images/example.png" width="214">
+<img src="https://raw.githubusercontent.com/Alpizz/tr-vaccine-bot/main/assets/images/example.png" width="400">
 
 ## License
 
