@@ -7,7 +7,7 @@ for Turkey. Data is parsed from Ministry of Health: https://covid19.saglik.gov.t
 
 - Uses [telebot] for Telegram interfacing.
 - [Selenium] Chrome Webdriver for data parsing.
-- [keepalive] for keeping the bot alive.
+- [Flask] web server for keeping the bot alive.
 
 ## Commands
 
@@ -22,5 +22,5 @@ GNU General Public License v3.0
 
    [telebot]: <https://github.com/eternnoir/pyTelegramBotAPI>
    [Selenium]: <https://selenium-python.readthedocs.io>
-   [keepalive]: <https://pypi.org/project/keepalive/>
+   [Flask]: <https://flask.palletsprojects.com/en/2.0.x/>
    
